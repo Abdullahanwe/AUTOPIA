@@ -236,6 +236,11 @@ h2{
     overflow: hidden;
     cursor: pointer;
 }
+
+.parent-card-2-car{
+    justify-content: center;
+}
+
 .bg-color-card-2{
     background-color: #03210C;
 }
